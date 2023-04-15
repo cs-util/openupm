@@ -1,0 +1,32 @@
+name: com.csutil.cscore
+displayName: cscore
+description: >-
+  cscore is a minimal-footprint library providing commonly used helpers &
+  patterns for your C# projects.
+repoUrl: 'https://github.com/cs-util-com/cscore'
+parentRepoUrl: null
+licenseSpdxId: Apache-2.0
+licenseName: Apache License 2.0
+topics:
+  - 2d
+  - ar-and-vr
+  - code-generation
+  - data-management
+  - debugging-and-logging
+  - frameworks
+  - gui
+  - localization
+  - mobile
+  - network
+  - services
+  - utilities
+hunter: cs-util
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'master:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1681573706351
